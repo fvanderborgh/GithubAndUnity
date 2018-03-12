@@ -6,7 +6,12 @@ public class SceneController : MonoBehaviour {
 
     // Use this for initialization
     void Start() {
-        Debug.Log("Henlo World!");
+        PrintSomeText();
+    }
+
+    private void PrintSomeText()
+    {
+        Debug.Log("Hello World!");
     }
 	
 	// Update is called once per frame
