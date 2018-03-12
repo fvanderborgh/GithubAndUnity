@@ -1,0 +1,16 @@
+# Unity
+[Bb]in/*
+[Bb]uilds/*
+[Bb]uild/*
+[Ll]ibrary/*
+[Oo]bj/*
+[Tt]emp/*
+sysinfo.txt
+
+# MonoDevelop
+*.sln
+
+# Visual Studio
+*.csproj
+*.userprefs
+/.vs/*
